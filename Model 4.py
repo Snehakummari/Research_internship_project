@@ -1,5 +1,5 @@
 """
-Model 4: Advanced Credibility Scoring Agent (MEMORY-SAFE AGENTIC VERSION)
+Model 4: Advanced Credibility Scoring Model 
 Target: 90%+ Accuracy WITHOUT OOM in Colab
 - Chunked processing with aggressive garbage collection
 - Smart memory management for spaCy NER
